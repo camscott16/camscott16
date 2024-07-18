@@ -50,8 +50,7 @@
 
 ###
 
-<div align="center">
+<!--<div align="center">
   <img height="200" src="https://images.genius.com/23e04ed82e0218e1e86e6ecbf5a8944b.1000x1000x1.png"  />
-</div>
+</div>--!>
 
-###
